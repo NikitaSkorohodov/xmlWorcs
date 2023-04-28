@@ -1,0 +1,6 @@
+
+<!ELEMENT contacts (contact*)>
+<!ELEMENT contact (name?, email+)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST name type (firstname | lastname) "firstname">

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root response="True">
+    <movie> 
+    <title>Titanic </title>
+    <year>1997 </year>
+    <genre>Drama </genre>
+    <director>James Cameron </director>
+    <actors>Leonardo DiCaprio, Kate Winslet, Billy Zane </actors>   
+</movie>
+    <movie> 
+    <title>Set It Up </title>
+    <year>2018 </year>
+    <genre>Comedy, Romance </genre>
+    <director>Claire Scanlon </director>
+    <actors>Zoey Deutch, Glen Powell, Lucy Liu </actors>   
+</movie>
+    <movie> 
+    <title>Avatar: The Way of Water </title>
+    <year>2022 </year>
+    <genre>Action, Adventure, Fantasy </genre>
+    <director>James Cameron </director>
+    <actors>Sam Worthington, Zoe Saldana, Sigourney Weaver </actors>   
+</movie>
+    <movie> 
+    <title>It </title>
+    <year>2017 </year>
+    <genre>Horror </genre>
+    <director>Andy Muschietti </director>
+    <actors>Bill Skarsgård, Jaeden Martell, Finn Wolfhard</actors>   
+</movie>
+    <movie> 
+    <title>forrest gump </title>
+    <year>1995 </year>
+    <genre>Comedy, Romance </genre>
+    <director>Claire Scanlon </director>
+    <actors>Tom Hanks, Robin Wright, Gary Sinise </actors>   
+</movie>
+</root>

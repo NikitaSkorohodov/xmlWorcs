@@ -1,0 +1,9 @@
+<!ELEMENT root (country+)>
+<!ELEMENT country (name,language)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT language (lang+,mony)>
+<!ELEMENT lang (#PCDATA)>
+<!ATTLIST lang isOfficial NMTOKEN #IMPLIED>
+<!ELEMENT mony EMPTY>
+<!ATTLIST mony name NMTOKEN #REQUIRED>
+<!ATTLIST mony sign CDATA #REQUIRED>

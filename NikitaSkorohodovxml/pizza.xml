@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="pizz.css" type="text/css"?>
+
+<?xml-model href="pizza.dtd"?>
+<root>
+<pizza_list>
+    <pizza>
+        <name>Smoked Salmon Pizza</name>
+        <ingredient>kastme</ingredient>
+        <ingredient>Mozzarella</ingredient>
+        <ingredient> “Philadelphia” juust</ingredient>
+        <ingredient> külmsuitsu lõhe</ingredient>
+        <ingredient> punane sibul</ingredient>
+        <ingredient> kapparid</ingredient>
+        <ingredient> värske rukkola</ingredient>
+        <ingredient> värsked kirsstomatid</ingredient>
+        <image>
+        </image>
+    </pizza>
+    <pizza>
+        <name>Prosciutto Pizza</name>
+        <ingridients>
+        <ingredient>“Alfredo” kastme</ingredient>
+        <ingredient>Mozzarella</ingredient>
+        <ingredient> Prosciutto Crudo</ingredient>
+        <ingredient> viigimarjad</ingredient>
+        <ingredient> värske rukkola</ingredient>
+        <ingredient> karamelliseeritud balsamico</ingredient>
+        </ingridients>
+        
+    </pizza>
+    <pizza>
+        <name>Smoked Chicken Pizza</name>
+        <ingridients>
+        <ingredient>“Alfredo” kastme</ingredient>
+        <ingredient>Mozzarella</ingredient>
+        <ingredient> suitsutatud kana</ingredient>
+        <ingredient> peekon</ingredient>
+        <ingredient> seened</ingredient>
+        <ingredient> punane sibul</ingredient>
+        <ingredient> värske rukkola</ingredient>
+        <ingredient> trühvlimaitseline oliiviõli</ingredient>
+        </ingridients>
+        
+    </pizza>
+    <pizza>
+        <name>Espana Pizza</name>
+        <ingridients>
+        <ingredient>“Marinara” kastme</ingredient>
+        <ingredient>Mozzarella</ingredient>
+        <ingredient> paprika</ingredient>
+        <ingredient> vinnutatud “Chorizo”</ingredient>
+        <ingredient> punane sibul</ingredient>
+        <ingredient> jalopeno</ingredient>
+        </ingridients>
+      
+    </pizza>
+    <pizza>
+        <name>Goat Cheese Zucchini Pizza</name>
+        <ingridients>
+        <ingredient>“Alfredo” kastme</ingredient>
+        <ingredient>Mozzarella</ingredient>
+        <ingredient> seened</ingredient>
+        <ingredient> kitsejuust</ingredient>
+        <ingredient> rosmariin</ingredient>
+        <ingredient> parmesan</ingredient>
+        </ingridients>
+       
+    </pizza>
+    </pizza_list>
+</root>

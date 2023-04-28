@@ -1,0 +1,1 @@
+[{"kind":2,"language":"xpath","value":"/root/movie[genre='Drama']/title! string()\r\n"},{"kind":2,"language":"xpath","value":"/root/movie[year>=2000]/title! string()"},{"kind":2,"language":"xpath","value":"/root/movie[director=\"Claire Scanlon\"]/title! string()"},{"kind":2,"language":"xpath","value":"/root/movie[actors=\"3\"]/title! string()"}]

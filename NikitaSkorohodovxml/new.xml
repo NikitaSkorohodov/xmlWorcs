@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="pizz.css" type="text/css"?>
+
+<?xml-model href="new1.dtd"?>
+<root>
+    <country>
+    <name>Estonia</name>
+    <language>
+    <lang isOfficial="True">estonian</lang>
+    <lang>russian</lang>
+    <lang>finish</lang>
+    <mony name="Euro" sign="€"></mony>
+    </language>
+    </country>
+     <country>
+    <name>Japan</name>
+    <language>
+    <lang isOfficial="True">japanin</lang>
+    <lang>english</lang>
+    
+    <mony name="Yean" sign="¥"></mony>
+    </language>
+    </country>
+    <country>
+    <name>Russia</name>
+    <language>
+    <lang isOfficial="True">russia</lang>
+    <mony name="Rub" sign="₽"></mony>
+    </language>
+    </country>
+    <country>
+    <name>Chaina</name>
+    <language>
+    <lang isOfficial="True">Chaina</lang>
+    <mony name="Yuan" sign="¥"></mony>
+    </language>
+    </country>
+    <country>
+    <name>Finland</name>
+    <language>
+    <lang isOfficial="True">Finland</lang>
+    <lang>russian</lang>
+    <lang>finish</lang>
+    <mony name="Euro" sign="€"></mony>
+    </language>
+    </country>
+    <country>
+    <name>Poland</name>
+    <language>
+    <lang isOfficial="True">Poland</lang>
+    <lang>russian</lang>
+    <lang>finish</lang>
+    <mony name="Euro" sign="€"></mony>
+    </language>
+    </country>
+    <country>
+    <name>Roman</name>
+    <language>
+    <lang isOfficial="True">Roman</lang>
+    <lang>russian</lang>
+    <lang>finish</lang>
+    <mony name="Euro" sign="€"></mony>
+    </language>
+    </country>
+    <country>
+    <name>Ukrain</name>
+    <language>
+    <lang isOfficial="True">Ukrain</lang>
+    <lang>russian</lang>
+    <lang>finish</lang>
+    <mony name="grivn" sign="₴"></mony>
+    </language>
+    </country>
+    <country>
+    <name>Estonia</name>
+    <language>
+    <lang isOfficial="True">estonian</lang>
+    <lang>russian</lang>
+    <lang>finish</lang>
+    <mony name="Euro" sign="€"></mony>
+    </language>
+    </country>
+</root>

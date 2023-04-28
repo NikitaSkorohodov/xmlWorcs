@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="u.dtd"?>
+
+    <contacts>
+        <contact >
+            <name type="firstname">
+                Grigory
+            </name>
+            <email>
+                gri@gmail
+            </email>
+        </contact>
+    </contacts>

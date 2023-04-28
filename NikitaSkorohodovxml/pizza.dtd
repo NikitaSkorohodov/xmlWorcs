@@ -1,0 +1,7 @@
+<!ELEMENT root (pizza_list)>
+<!ELEMENT pizza_list (pizza+)>
+<!ELEMENT pizza (name,ingredient*,image?,ingridients?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT ingredient (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+<!ELEMENT ingridients (ingredient+)>
